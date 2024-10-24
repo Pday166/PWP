@@ -18,3 +18,8 @@ body {
 li {
     margin: 1em 0;
 }
+
+img {
+    max-width: 80%;
+    height: auto;
+}
