@@ -4,10 +4,10 @@ module.exports = {
     theme: {
         extend: {
             backgroundImage: {
-                'smoke': 'url("/vid-spfx.jpg")',
-                'mixer': 'url("/mixer1.jpg")',
+                'smoke': 'url("/vid-spfxsm.jpg")',
+                'mixer': 'url("/mixer.jpg")',
                 'editor': 'url("/vid-edit1.jpg")',
-                'coding': 'url("/coding.jpg")',
+                'coding': 'url("/codingsm.jpg")',
             },
             keyframes: {
                     appear: {
